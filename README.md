@@ -4,7 +4,6 @@
 <h3 align="left">About me:</h3>
 <img align="right" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrprithwish&label=Profile%20views&color=0e75b6&style=flat" alt="mrprithwish" /> </p>
 
 - 🔭 I’m currently working on **private projects**
 
