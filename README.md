@@ -4,7 +4,6 @@
 <h3 align="left">About me:</h3>
 <img align="right" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif">
 
-
 - 🔭 I’m currently working on **private projects**
 
 - 💬 **MERN , REACT , C , C++ , JAVA , PYTHON**
