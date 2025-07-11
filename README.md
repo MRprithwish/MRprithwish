@@ -9,14 +9,14 @@
 
 - 💬 **MERN , REACT , C , C++ , JAVA , PYTHON**
 
-- 📫 **majumderprithwish73@gmail.com**
+- 🎯 **Full-Stack Developer | Tech Explorer | Programmer**
 
 - ⚡ **Writing code is fast. Finding out why it doesn’t work
        is the real game.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prithwish narayan majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithwish narayan majumder" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/prithwish narayan majumder](https://www.linkedin.com/in/prithwish-narayan-majumder-226416252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithwish narayan majumder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
