@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **private projects**
 
-- 💬 **MERN , REACT , C , PYTHON**
+- 💬 **MERN , REACT , HTML5 , CSS , JAVA SCRIPT , C , PYTHON**
 
 - 🎯 **Full-Stack Developer | Tech Explorer | Programmer**
 
